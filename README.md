@@ -13,7 +13,7 @@ Postgraduate student in **Intelligent Systems and Agents** at the Federal Univer
 - **[AgentPulse API](https://github.com/alainy-rocha-dev/AgentPulse-API)** — Asynchronous AI agent orchestration with a Pydantic validation and repair loop
 - **[FinAgent](https://github.com/alainy-rocha-dev/FinAgent)** — Multi-agent financial analysis with deterministic calculations and numerical auditing
 - **RevisaMed** *(private)* — AI medication review for elderly patients; every alert backed by a verified excerpt from the official drug label. Top 6 at AKCIT Camp Multicêntrico 2026
-- **[GirahAI](https://github.com/alainy-rocha-dev/girahai-showcase)**
+- **[GirahAI](https://github.com/alainy-rocha-dev/girahai-showcase)** — AI inventory-risk assistant for fashion e-commerce, deployed for a pilot retail client (showcase; source code private)
 ### 🛠️ Tech
 Python · FastAPI · Django · LangChain · LangGraph · CrewAI · sqlite-vec · ChromaDB · PostgreSQL · Redis · Celery · Docker
 
