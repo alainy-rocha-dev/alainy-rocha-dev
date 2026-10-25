@@ -15,7 +15,8 @@ Postgraduate student in **Intelligent Systems and Agents** at the Federal Univer
 - **RevisaMed** *(private)* — AI medication review for elderly patients; every alert backed by a verified excerpt from the official drug label. Top 6 at AKCIT Camp Multicêntrico 2026
 - **[GirahAI](https://github.com/alainy-rocha-dev/girahai-showcase)** — AI inventory-risk assistant for fashion e-commerce, deployed for a pilot retail client (showcase; source code private)
 ### 🛠️ Tech
-Python · FastAPI · Django · LangChain  · CrewAI · sqlite-vec · ChromaDB · PostgreSQL · Redis · Celery · Docker
+
+Python · FastAPI · Django · CrewAI · sqlite-vec · ChromaDB · PostgreSQL · Redis · Celery · Docker · Ollama
 
 ### 🌎 Languages
 Portuguese (native) · English (MEC scholarship in Ireland)
